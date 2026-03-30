@@ -1,5 +1,7 @@
 # <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> Olá, eu sou **Vinícius Tagliéri**
 
+<img src="./images/ViniciusTaglieri.png" alt="Banner Vinicius Taglieri" />
+
 ## 📚 Sobre mim:
 <a href="https://taglieri.com.br"> 
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NGh2YWFkM2g2enk1dGM3bzM3dzZxbTQwNno4cG10anh5dHZxYzEycyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/i4MAH84pqe2m2aVojc/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> 
